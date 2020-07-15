@@ -9,6 +9,5 @@ Bug Branch
 
 Hold on you thought we were done?
 
-We are now learning about Pull Requests and Merging
 
 
