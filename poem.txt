@@ -1,0 +1,8 @@
+Poem about Git
+
+Today I learned what a Branch is for
+Allowing devs to work on different versions of the same files in tandem
+We have 3 well-known types of Branches, are you ready to learn more
+Production Branch
+Development Branch
+Bug Branch
