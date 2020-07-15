@@ -1,4 +1,4 @@
-Poem about Git4.0
+Poem about Git5.0
 
 Today I learned what a Branch is for
 Allowing devs to work on different versions of the same files in tandem
@@ -9,7 +9,14 @@ Bug Branch
 
 Hold on you thought we were done?
 
+
+There's more
+
+We need to learn about Merge conflicts
+
+
 By:Abdulrahim and Friday
+
 
 
 
