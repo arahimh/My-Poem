@@ -6,3 +6,4 @@ We have 3 well-known types of Branches, are you ready to learn more
 Production Branch
 Development Branch
 Bug Branch
+Thank you for reading
