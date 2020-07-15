@@ -1,4 +1,4 @@
-Poem about Git2.0
+Poem about Git3.0
 
 Today I learned what a Branch is for
 Allowing devs to work on different versions of the same files in tandem
@@ -8,4 +8,7 @@ Development Branch
 Bug Branch
 
 Hold on you thought we were done?
+
+We are now learning about Pull Requests and Merging
+
 
