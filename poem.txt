@@ -17,6 +17,7 @@ We need to learn about Merge conflicts
 
 By:Abdulrahim and Friday
 
+Learning how to delete PR's
 
 
 
