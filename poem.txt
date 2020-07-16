@@ -1,4 +1,4 @@
-Poem about Git5.0
+Poem about Git7.0
 
 Today I learned what a Branch is for
 Allowing devs to work on different versions of the same files in tandem
